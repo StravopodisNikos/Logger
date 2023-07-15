@@ -13,7 +13,7 @@
 #include <C:\Users\Nikos\Documents\Arduino\libraries\ActiveStepperActuator\config\eeprom_stepper.h>
 
 namespace logger_ns {
-    
+
 class Logger: public uart_comm_ns::uart_comm_ovidius
 {
 private:
